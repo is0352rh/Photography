@@ -146,7 +146,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 15vh;
+  height: 5vh;/*original 15*/
   text-align: center;
 }
 
