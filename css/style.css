@@ -146,8 +146,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 25vh;/*original 15*/
-  text-align: center;
+	height: 15vh; /*original 15*/
+	text-align: center;
 }
 
 .mv-container {
